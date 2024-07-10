@@ -36,3 +36,9 @@ Or go straight to the [API documentation](https://fontawesome.com/how-to-use/fon
 ## Issues and support
 
 Start with [GitHub issues](https://github.com/FortAwesome/Font-Awesome/issues) and ping us on [Twitter](https://twitter.com/fontawesome) if you need to.
+
+
+
+EXTRACT SVGS FILE
+LOCATE THE FILE PROPERLY 
+CHECK USER AND PASSWORD 
